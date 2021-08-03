@@ -6,8 +6,13 @@ King spam bot By" @imanzxtesla
 
 / pkg install python
 
-/ git clone
+/ git clone https://github.com/Tesla-IR/TESLA_ir
 
-/ cd 
+/ cd TESLA_ir
 
-/ python
+/ python iman.py
+
+
+
+
+insta:("yttesla")
